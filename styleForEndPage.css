@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #DFA67B;
+}
+p {
+    font-size: 18px;
+    font-family: "monaco",monospace;
+    background-color: #FFD966;
+}
+h1 {
+    font-family: "monaco",monospace;
+    background-color: #FFF2CC;
+}
